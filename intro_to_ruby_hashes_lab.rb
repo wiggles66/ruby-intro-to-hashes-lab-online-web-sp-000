@@ -1,5 +1,6 @@
+require 'pry'
 def new_hash
-test_hash = Hash.new
+hash = {}
 end
 
 def actor
